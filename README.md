@@ -57,8 +57,8 @@ pip3 install opencv-python numpy
 
 Download YOLOv3-tiny config and weights:  
 
-- [yolov3-tiny.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-tiny.cfg?raw=true)  
-- [yolov3-tiny.weights](https://pjreddie.com/media/files/yolov3-tiny.weights)  
+- [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-tiny.cfg?raw=true)  
+- [yolov3.weights](https://www.kaggle.com/datasets/shivam316/yolov3-weights)  
 - [coco.names](https://github.com/pjreddie/darknet/blob/master/data/coco.names?raw=true)  
 
 Put these files inside your project folder.
@@ -77,22 +77,6 @@ python3 object_detection.py
 python3 object_detection.py --video sample.mp4
 ```
 
----
-
-## 📸 Screenshot (Example)
-
-![Detection Screenshot](https://raw.githubusercontent.com/pjreddie/darknet/master/data/dog.jpg)
-
----
-
-## 🤝 Contributing  
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
----
-
-## 📜 License  
-This project is licensed under the MIT License.  
-
----
 
 💡 Built with ❤️ using Python & OpenCV
+ ©Amritesh_Das
