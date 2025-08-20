@@ -6,9 +6,9 @@ It can detect multiple objects in real-time using your webcam or video files.
 ---
 
 ## 🚀 Features
-- Real-time object detection using YOLOv3-tiny  
+- Real-time object detection using YOLOv3  
 - Works with webcam and video files  
-- Lightweight & fast (uses YOLOv3-tiny for speed)  
+- Lightweight & fast (uses YOLOv3 for speed)  
 - Easy to install and run  
 
 ---
@@ -17,8 +17,8 @@ It can detect multiple objects in real-time using your webcam or video files.
 
 ### 1. Clone this repository  
 ```bash
-git clone https://github.com/your-username/object-detection-app.git
-cd object-detection-app
+git clone https://github.com/your-username/object_detection.git
+cd object_detection
 ```
 
 ### 2. Install Python (Mac/Linux/Windows)  
